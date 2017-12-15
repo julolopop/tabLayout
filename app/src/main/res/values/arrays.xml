@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tans">
+        <item>tab1</item>
+        <item>tab2</item>
+        <item>tab3</item>
+        <item>tab4</item>
+        <item>tab5</item>
+    </string-array>
+
+
+    <array name="img">
+        <item>@drawable/cd12d</item>
+        <item>@drawable/descarga</item>
+        <item>@drawable/s</item>
+        <item>@drawable/cd12d</item>
+        <item>@drawable/descarga</item>
+    </array>
+</resources>
